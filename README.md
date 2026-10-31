@@ -16,7 +16,7 @@ The OTV uses a machine learning model to classify substrate in the two back pots
 - Arduino Mega
 - HC-SR04 ultrasonic sensor
 - ESP32-CAM
-- BTS7960 Motor Driver
+- L298N Motor Driver
 - 4 driver motors with PWM control
 - Actuator motors for bow system and rack and pinion system
 - Mecanum wheels
